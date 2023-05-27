@@ -1,0 +1,127 @@
+{
+  "freelancers": [
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 4,
+      "name": "Jane Smith",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 6,
+      "name": "Jane Smith",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 7,
+      "name": "John Doe",
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 8,
+      "name": "Jane Smith",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": true
+    },
+    {
+      "id": 9,
+      "name": "John Doe",
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 10,
+      "name": "Jane Smith",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": true
+    }
+  ]
+}
